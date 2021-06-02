@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<!Doctype html>
+<html>
+<head>
+<title>
+Structure-Web-Pages-with-HTML
+</title>
+<link rel="stylesheet" href="">
 
-You can use the [editor on GitHub](https://github.com/radeyah97/Structure-Web-Pages-with-HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<!-- adding comment -->
+<header>
+  <nav>
+  <div>
+Structure Web Pages with HTML 
 
-### Markdown
+<h1>1- Wireframes<h1>
+<main>
+<section>
+  </header>
+  what is Wireframes
+?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p> Wireframing is a UX designers approach that enables them to develop and organize the information of their design for a website, app or product. it is an excellent way to understand how a user interacts with your interface, by placing buttons and menus on the diagrams.
 
-```markdown
-Syntax highlighted code block
+Some people like to design wireframes by their own hand, others like adopting Invision or Balsamiq software to build their own. However, most often the decision to use online tools or wireframes by hand and the process used to reach wireframe to code is less linked by the UX designer’s individual preferences and more linked with the approach required in the 
+particular situation.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<header>
+ How can we creat wireframes
+?
 
-- Bulleted
-- List
+<p> -Do your research. <p>
+<p> -Prepare your research for quick reference.<p>
+<p> -Ensure that you are mapping out your user flow.<p>
+<p> -Draft, don’t draw. Sketch, don’t illustrate.<p>
+<p> -Add some detail and get testing.<p>
+<p> -Start turning your wireframes into prototypes.</p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h1> 2-HTML Basics
+</h1>
 
-[Link](url) and ![Image](src)
-```
+<p> HTML (Hypertext Markup Language) is a markup language that defines the structure of your web page and the content. For instance, content may be structured in a number of paragraphs, a list of points or by the use of pictures and data table. It consists of a series of elements.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="https://codingali.com/wp-content/uploads/2018/06/img3.png" height="400px" width="400px" />
+</div>
 
-### Jekyll Themes
+<h1> 3- Semantics
+</h1>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/radeyah97/Structure-Web-Pages-with-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p> 
+In programming language theory, semantics is the field concerned with the rigorous mathematical study of the meaning of programming languages. ... Semantics describes the processes a computer follows when executing a program in that specific language.</p>
 
-### Support or Contact
+<header>
+benefits from writing semantic markup:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p> -Search engines will consider its contents as important keywords to influence the page’s search rankings.<p>
+<p> -Screen readers can use it as a signpost to help visually impaired users navigate a page.<p>
+<p> -Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes.<p>
+<p> -Suggests to the developer the type of data that will be populated.<p>
+
+  </footer>
+<script src="app.js">
+
+
+</script>
+
+  </body>
+
+</html>
+
+
+
+
