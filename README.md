@@ -1,9 +1,4 @@
 
-<html>
-<head>
-<title>
-Structure-Web-Pages-with-HTML
-</title>
 <link rel="stylesheet" href="">
 
 </head>
@@ -62,15 +57,4 @@ benefits from writing semantic markup:
 <p> -Suggests to the developer the type of data that will be populated.<p>
 
   </footer>
-<script src="app.js">
-
-
-</script>
-
-  </body>
-
-</html>
-
-
-
 
